@@ -1,0 +1,35 @@
+#tiger {
+    padding: 50px;
+     text-align: center;
+     background-color:orangered;
+       border-radius: 10px;
+           opacity: .7;
+}
+#lion {
+        padding: 50px;
+        text-align: center;
+        background-color: blue;
+            border-radius: 10px;
+            opacity: .7;
+}
+#dog {
+     padding: 50px;
+        text-align: center;
+        background-color: white;
+          border-radius: 10px;
+            opacity: .7;
+}
+#horse {
+     padding: 50px;
+        text-align: center;
+        background-color: red;
+         border-radius: 10px;
+            opacity: .7;
+}
+#cat {
+     padding: 50px;
+      text-align: center;
+      background-color: green;
+         border-radius: 10px;
+            opacity: .7;
+}
